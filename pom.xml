@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>lk.mango</groupId>
-    <artifactId>MIT_TIX_Protocol</artifactId>
-    <version>0.1</version>
+    <artifactId>AIX_Protocol</artifactId>
+    <version>0.1-SNAPSHOT</version>
 
 
 </project>
