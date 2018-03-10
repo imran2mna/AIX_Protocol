@@ -1,0 +1,9 @@
+---
+
+  - name: Sample playbook for Ansible Tower
+    hosts: localhost
+    tasks:
+      - name: Print debug message
+        debug:
+          msg: "SAMPLE MESSAGE"
+
